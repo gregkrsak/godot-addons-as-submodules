@@ -16,3 +16,9 @@
 [submodule "godot-console"]
 	path = godot-console
 	url = git@github.com:gregkrsak/godot-console.git
+[submodule "Gut"]
+	path = Gut
+	url = git@github.com:gregkrsak/Gut.git
+[submodule "nylon"]
+	path = nylon
+	url = git@github.com:gregkrsak/nylon.git
