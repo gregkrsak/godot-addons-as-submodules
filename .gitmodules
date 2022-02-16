@@ -1,24 +1,32 @@
 [submodule "godot-next"]
 	path = godot-next
 	url = git@github.com:gregkrsak/godot-next.git
+	branch = master
 [submodule "godot-multiplayer-template"]
 	path = godot-multiplayer-template
 	url = git@github.com:gregkrsak/godot-multiplayer-template.git
+	branch = master
 [submodule "godot-event-bus"]
 	path = godot-event-bus
 	url = git@github.com:gregkrsak/godot-event-bus.git
+	branch = master
 [submodule "godot-addon-integer_resolution_handler"]
 	path = godot-addon-integer_resolution_handler
 	url = git@github.com:gregkrsak/godot-addon-integer_resolution_handler.git
+	branch = 3.X
 [submodule "godot-engine.file-editor"]
 	path = godot-engine.file-editor
 	url = git@github.com:gregkrsak/godot-engine.file-editor.git
+	branch = master
 [submodule "godot-console"]
 	path = godot-console
 	url = git@github.com:gregkrsak/godot-console.git
+	branch = develop
 [submodule "Gut"]
 	path = Gut
 	url = git@github.com:gregkrsak/Gut.git
+	branch = master
 [submodule "nylon"]
 	path = nylon
 	url = git@github.com:gregkrsak/nylon.git
+	branch = main
