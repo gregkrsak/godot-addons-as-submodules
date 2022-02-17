@@ -30,3 +30,6 @@
 	path = nylon
 	url = git@github.com:gregkrsak/nylon.git
 	branch = main
+[submodule "godot-aseprite-wizard"]
+	path = godot-aseprite-wizard
+	url = git@github.com:gregkrsak/godot-aseprite-wizard.git
