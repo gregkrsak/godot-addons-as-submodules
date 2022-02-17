@@ -33,3 +33,6 @@
 [submodule "godot-aseprite-wizard"]
 	path = godot-aseprite-wizard
 	url = git@github.com:gregkrsak/godot-aseprite-wizard.git
+[submodule "godot-addon-crypto_uuid_v4"]
+	path = godot-addon-crypto_uuid_v4
+	url = git@github.com:gregkrsak/godot-addon-crypto_uuid_v4.git
