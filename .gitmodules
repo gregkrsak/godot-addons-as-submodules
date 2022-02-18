@@ -39,3 +39,6 @@
 [submodule "scaffolder"]
 	path = scaffolder
 	url = git@github.com:gregkrsak/scaffolder.git
+[submodule "surfacer"]
+	path = surfacer
+	url = git@github.com:gregkrsak/surfacer.git
