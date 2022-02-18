@@ -42,3 +42,6 @@
 [submodule "surfacer"]
 	path = surfacer
 	url = git@github.com:gregkrsak/surfacer.git
+[submodule "godot-clyde-dialogue"]
+	path = godot-clyde-dialogue
+	url = git@github.com:gregkrsak/godot-clyde-dialogue.git
